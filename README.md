@@ -22,6 +22,6 @@ Please feel free to clone projects, raise issues and submit PRs if you think my 
   <br>
 
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=loyboyB&show_icons=true&theme=dracula" alt="Loyboy Emmanuel's Github Stats" alt="Loyboy Emmanuel's Github Status" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=loyboy&show_icons=true&theme=dracula" alt="Loyboy Emmanuel's Github Stats" alt="Loyboy Emmanuel's Github Status" />
   </p>
 </details>
