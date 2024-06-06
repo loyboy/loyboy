@@ -1,25 +1,76 @@
-# Hi 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚜/> across the world!
+<h3>Emmanuel Ephraim</h3>
+I develop scalable and robust solutions within tech. I also have a comprehensive background in architecting cloud systems that have high throughput and high performance. I mostly work on both web development and editing existing UI designs. Designing something novel and fast 🚀 is my main aim, be it wthin the frontend, backend or database.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loysupremo/)](https://www.linkedin.com/in/loysupremo/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=blue&link=mailto:onehubdigita@gmail.com)](mailto:onehubdigita@gmail.com)
+<h4>Tech stack</h4>
+<div align="center" style="display: inline-flex; gap: 4;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" alt="elixir logo"/>
+  <img width="12" />
+  <br />
+  <br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+</div>
 
-I'm Emmanuel Ephraim, a Software Engineer & DevOps Cloud Engineer who also enjoys trying out new technologies and solving problems as they come. 
+<h4>Social links:</h4>
 
-Please feel free to clone projects, raise issues, and submit PRs if you think my code has any issues.   
+- LinkedIn: [Emmanuel Ephraim](https://www.linkedin.com/in/loysupremo)
+- Twitter:  [@loyboytech](https://x.com/loyboytech)
+- Gmail:    [onehubdigita@gmail.com](mailto:onehubdigita@gmail.com)
 
-<!-- - 🔭 I’m currently working on startup projects as well as Cloud-related projects.    -->      
-- 💬 Ask me anything [email](mailto:onehubdigita@gmail.com)
-- :computer: Tech Stacks:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<h4>Projects:</h4>
+- [Standbasis School Self Evaluation](https://github.com/loyboy/standbasis_chrome_offline): A Reactjs light-weight offline tool for schools to perform quality management based on our internal metrics.
+- [Standbasis School Curriculum Management](https://github.com/loyboy/standbasis2022backend): A Backend Microservice infrastructure deployed into a VPS built with Java Spring and Hibernate, that powers the Standbasis Curriculum Management Software.
+- 📈 [Trendz](https://github.com/loyboy/trendz): Fully tested with CI/CD pipeline & documented fashion branded mini app with a separate backend and database that can easily scale to millions.
+- [Terminal Calculator](https://github.com/loyboy/elixir-calculator): Its a calculator built with Elixir within the command line Terminal.
+- [Uber Backed Clone](https://github.com/loyboy/elixir-uber-clone): Its a clone of the Uber Archictecture built with Elixir, Postgressql and Phoneix framework.
+- [Menscript](https://menscript.com/uk): A telemedicine startup company built with Nuxt.js, Stripe and Node.js that serves physician-certified medications to customers for hair, skin and sex problems.
+
+<h4>About me:</h4>
+
+- Currently working part-time as a Cloud Architect Engineer at Upwork.
+- I use VSCode as my primary editor 💻 (Not used to Neovim yet).
+- I write blog posts on [my-blog](https://dev.to/loysupremo), check it out!
+
+⚡ **Fun fact:** I like to make music RAP beats in my spare time !
+
 <details>
-  <summary>My Current Github Stats (Will improve this year with time)</summary>
+  <summary>My Current Github Stats</summary>
   <br>
 
   <p align="center">
