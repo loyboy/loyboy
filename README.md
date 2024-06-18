@@ -1,5 +1,5 @@
 <h3>Emmanuel Ephraim</h3>
-I develop scalable and robust solutions within tech. I also have a comprehensive background in architecting cloud systems that have high throughput and high performance. I mostly work on both web development and editing existing UI designs. Designing something novel and fast 🚀 is my main aim, be it wthin the frontend, backend or database.
+I develop scalable and robust solutions within tech. I also have a comprehensive background in architecting cloud systems that have high throughput and high performance. I mostly work on both web development and editing existing UI designs. Designing something novel and fast 🚀 is my main aim, be it within the frontend, backend or database.
 
 <h4>Tech stack</h4>
 <div align="center" style="display: inline-flex; gap: 4;">
