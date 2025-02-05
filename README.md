@@ -7,7 +7,7 @@ I develop scalable and robust solutions within tech. I also have a comprehensive
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
@@ -17,11 +17,9 @@ I develop scalable and robust solutions within tech. I also have a comprehensive
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"/>
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" alt="elixir logo"/>
   <img width="12" />
@@ -58,12 +56,10 @@ I develop scalable and robust solutions within tech. I also have a comprehensive
 - [Standbasis School Curriculum Management](https://github.com/loyboy/standbasis2022backend): A Backend Microservice infrastructure deployed into a VPS built with Java Spring and Hibernate, that powers the Standbasis Curriculum Management Software.
 - 📈 [Trendz](https://github.com/loyboy/trendz): Fully tested with CI/CD pipeline & documented fashion branded mini app with a separate backend and database that can easily scale to millions.
 - [Terminal Calculator](https://github.com/loyboy/elixir-calculator): Its a calculator built with Elixir within the command line Terminal.
-- [Uber Backed Clone](https://github.com/loyboy/elixir-uber-clone): Its a clone of the Uber Archictecture built with Elixir, Postgressql and Phoneix framework.
 - [Menscript](https://menscript.com/uk): A telemedicine startup company built with Nuxt.js, Stripe and Node.js that serves physician-certified medications to customers for hair, skin and sex problems.
 
 <h4>About me:</h4>
 
-- Currently working part-time as a Cloud Architect Engineer at Upwork.
 - I use VSCode as my primary editor 💻 (Not used to Neovim yet).
 - I write blog posts on [my-blog](https://dev.to/loysupremo), check it out!
 
